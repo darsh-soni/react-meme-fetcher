@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-meme-fetcher/static/css/main.bea97563.css",
+    "main.js": "/react-meme-fetcher/static/js/main.979d66d2.js",
+    "index.html": "/react-meme-fetcher/index.html",
+    "main.bea97563.css.map": "/react-meme-fetcher/static/css/main.bea97563.css.map",
+    "main.979d66d2.js.map": "/react-meme-fetcher/static/js/main.979d66d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea97563.css",
+    "static/js/main.979d66d2.js"
+  ]
+}
